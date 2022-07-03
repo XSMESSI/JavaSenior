@@ -60,7 +60,7 @@ public class CollectionsTest {
 //        dest.add(23);
 //
 //        Collections.copy(dest,list);
-//        System.out.println("dest = " + dest);
+//        System.out.println("dest = " + dest);1
 
         //正确的
         List dest = Arrays.asList(new Object[list.size()]);
