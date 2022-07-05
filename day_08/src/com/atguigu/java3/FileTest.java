@@ -25,7 +25,10 @@ public class FileTest {
 
     /**
      * 1.如何创建File类的实例
-     *
+     *  常用构造器
+     *File(String filePath)
+     * File(String parentPath,String childPath)
+     * File(File parentFile,String childPath)
      * 2.
      * 相对路径：相较于某个路径下，指明的路径
      * 绝对路径：包含盘符在内的文件或文件目录的路径
