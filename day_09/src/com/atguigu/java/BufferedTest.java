@@ -6,7 +6,7 @@ package com.atguigu.java;
  * @Description:
  */
 
-import org.junit.Test;
+import org.testng.annotations.Test;
 
 import java.io.*;
 
